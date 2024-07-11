@@ -15,4 +15,3 @@ also i have build this website completely on php
 ![Screenshot (222)](https://github.com/mayurbhat13/eventors/assets/154245469/b5a7eaea-acae-43a6-b6dd-b0af3586811f)
 ![Screenshot (223)](https://github.com/mayurbhat13/eventors/assets/154245469/0e5ae029-fc64-4e44-a6af-bb592a0f6d1a)
 ![Screenshot (224)](https://github.com/mayurbhat13/eventors/assets/154245469/119c9e82-c80d-4a0c-94e9-9c473888e699)
-# eventors
